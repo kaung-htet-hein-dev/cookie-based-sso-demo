@@ -1,0 +1,12 @@
+# Go build outputs
+login-server/login-server
+api-server/api-server
+
+# Frontend artifacts
+frontend/node_modules/
+frontend/dist/
+frontend-2/node_modules/
+frontend-2/dist/
+
+# OS/editor
+.DS_Store
